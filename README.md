@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-Virtual-Internship
+# Accenture Data Analytics Virtual Internship
 Accenture-Data-Analytics-Virtual-Internship
 
 > I just completed Accenture North America's Data Analytics and Visualization on Forage. In the simulation I:
