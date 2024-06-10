@@ -6,6 +6,7 @@ Completed a simulation focused on advising a hypothetical social media client as
 Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
-> ![Dashboard](https://github.com/RIDDHIDHAMELIYA/Accenture-Data-Analytics-Virtual-Internship/assets/104691860/bb887010-6919-4f13-b912-23920a6ec2d8)
+> 
+![Dashboard 1](https://github.com/RIDDHIDHAMELIYA/Accenture-Data-Analytics-Virtual-Internship/assets/104691860/15257e76-c6a1-44a2-9e39-dc8fdb97a151)
 
 > [Tableau Dashboard Link](https://public.tableau.com/views/AccentureDataAnalyticsVirtualInternship/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
