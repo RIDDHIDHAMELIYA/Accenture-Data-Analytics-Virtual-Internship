@@ -8,3 +8,4 @@ Prepared a PowerPoint deck and video presentation to communicate key insights fo
 
 > ![Dashboard](https://github.com/RIDDHIDHAMELIYA/Accenture-Data-Analytics-Virtual-Internship/assets/104691860/bb887010-6919-4f13-b912-23920a6ec2d8)
 
+> [Tableau Dashboard Link](https://public.tableau.com/views/AccentureDataAnalyticsVirtualInternship/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
